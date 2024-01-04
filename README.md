@@ -26,4 +26,4 @@ The following steps have been completed:
 
 Preprocessing including conversion of non-numeric columns, handling NaN values, and feature extraction from datetime columns.
 Building and training a predictive model for store sales.
-Scaling the data using sklearn's standard scaler for better predictions.
+Scaling the data using sklearn's MinMaxScaler for better predictions.
