@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Pharmaceutical%20Code/mlruns/0/095ca56513344684a05972511e67ddde/artifacts
+end_time: 1706960876811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 095ca56513344684a05972511e67ddde
+run_name: selective-midge-669
+run_uuid: 095ca56513344684a05972511e67ddde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706960781393
+status: 3
+tags: []
+user_id: Sanket
